@@ -59,7 +59,7 @@ public class UserController {
             
         }
         
-        return "error";         
+        return "redirect:/error.jsp";         
     }
 	
 	
